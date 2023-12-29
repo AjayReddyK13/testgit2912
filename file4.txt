@@ -1,1 +1,2 @@
 file4 commit2
+version 6
